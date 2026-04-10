@@ -35,7 +35,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" style={{ scrollBehavior: 'smooth' }}>
+    <html lang="en" data-scroll-behavior="smooth">
       <body className="font-sans antialiased bg-navy-900 text-gray-light">
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
