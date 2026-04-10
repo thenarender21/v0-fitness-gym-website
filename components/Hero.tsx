@@ -31,7 +31,7 @@ export default function Hero() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <a
-              href="#contact"
+              href="/join"
               className="px-10 py-4 bg-red-primary hover:bg-red-dark text-white font-bold text-lg rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-red-primary/50"
             >
               Start Your Journey
