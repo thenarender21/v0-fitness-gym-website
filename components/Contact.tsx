@@ -51,9 +51,11 @@ export default function Contact() {
               <div>
                 <h4 className="text-lg font-bold text-white mb-2">Location</h4>
                 <p className="text-gray-light leading-relaxed">
-                  123 Fitness Street<br />
-                  Gym District, City 12345<br />
-                  United States
+                  Manorama Nagar Rd<br />
+                  Opposite State Bank of India<br />
+                  Dokali Pada, Dhokali<br />
+                  Thane West, Thane<br />
+                  Maharashtra 400607
                 </p>
               </div>
             </div>

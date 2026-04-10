@@ -68,8 +68,11 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-red-primary flex-shrink-0 mt-1" />
                 <span className="text-gray-light">
-                  123 Fitness Street<br />
-                  Gym District, City 12345
+                  Manorama Nagar Rd<br />
+                  Opposite State Bank of India<br />
+                  Dokali Pada, Dhokali<br />
+                  Thane West, Thane<br />
+                  Maharashtra 400607
                 </span>
               </li>
             </ul>
