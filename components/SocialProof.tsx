@@ -8,11 +8,11 @@ export default function SocialProof() {
       icon: Star,
       value: '4.7',
       label: 'Star Rating',
-      subtext: '500+ reviews',
+      subtext: '414+ reviews',
     },
     {
       icon: Users,
-      value: '500+',
+      value: '414+',
       label: 'Active Members',
       subtext: 'Growing daily',
     },

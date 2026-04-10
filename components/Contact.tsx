@@ -51,9 +51,11 @@ export default function Contact() {
               <div>
                 <h4 className="text-lg font-bold text-white mb-2">Location</h4>
                 <p className="text-gray-light leading-relaxed">
-                  123 Fitness Street<br />
-                  Gym District, City 12345<br />
-                  United States
+                  Manorama Nagar Rd<br />
+                  Opposite State Bank of India<br />
+                  Dokali Pada, Dhokali<br />
+                  Thane West, Thane<br />
+                  Maharashtra 400607
                 </p>
               </div>
             </div>
@@ -65,10 +67,10 @@ export default function Contact() {
               <div>
                 <h4 className="text-lg font-bold text-white mb-2">Phone</h4>
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+919773329211"
                   className="text-gold-primary hover:text-gold-light transition-colors text-lg font-semibold"
                 >
-                  +1 (234) 567-890
+                  +91 9773329211
                 </a>
                 <p className="text-gray-light/70 text-sm mt-1">Available during business hours</p>
               </div>
@@ -105,7 +107,7 @@ export default function Contact() {
 
             {/* WhatsApp CTA */}
             <a
-              href="https://wa.me/1234567890?text=Hi%20Fitness%20Empire%2C%20I%27m%20interested%20in%20joining%21"
+              href="https://wa.me/919773329211?text=Hi%20Fitness%20Empire%2C%20I%27m%20interested%20in%20joining%21"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-6 py-3 bg-green-600 hover:bg-green-700 text-white font-bold rounded-lg transition-all duration-300 mt-4"

@@ -133,10 +133,6 @@
     @apply border-border outline-ring/50;
   }
   
-  html {
-    scroll-behavior: smooth;
-  }
-  
   body {
     background-color: rgb(15 20 25);
     color: rgb(224 224 224);

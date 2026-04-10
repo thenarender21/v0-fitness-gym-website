@@ -45,7 +45,7 @@ export default function About() {
           {/* Right Stats */}
           <div className="space-y-6">
             <div className="bg-navy-800 p-8 rounded-xl border border-red-primary/20 hover:border-red-primary/50 transition-colors">
-              <h4 className="text-4xl font-bold text-gold-primary mb-2">500+</h4>
+              <h4 className="text-4xl font-bold text-gold-primary mb-2">414+</h4>
               <p className="text-gray-light">Active Members Transformed</p>
             </div>
 

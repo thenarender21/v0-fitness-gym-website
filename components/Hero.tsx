@@ -31,7 +31,7 @@ export default function Hero() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <a
-              href="#contact"
+              href="/join"
               className="px-10 py-4 bg-red-primary hover:bg-red-dark text-white font-bold text-lg rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-red-primary/50"
             >
               Start Your Journey
@@ -46,7 +46,7 @@ export default function Hero() {
 
           {/* Hero Highlight */}
           <div className="mt-16 pt-8 border-t border-red-primary/30">
-            <p className="text-gold-primary font-semibold text-lg">🏆 Trusted by 500+ Members | 4.7★ Rating</p>
+            <p className="text-gold-primary font-semibold text-lg">🏆 Trusted by 414+ Members | 4.7★ Rating</p>
           </div>
         </div>
       </div>

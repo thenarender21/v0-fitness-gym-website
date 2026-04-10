@@ -26,7 +26,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           {/* Brand */}
           <div>
-            <h3 className="text-2xl font-bold text-gold-primary mb-4">EMPIRE</h3>
+            <h3 className="text-2xl font-bold text-gold-primary mb-4">FITNESS EMPIRE</h3>
             <p className="text-gray-light/80 leading-relaxed">
               Transforming lives through fitness, one member at a time. Join our community of champions today.
             </p>
@@ -55,8 +55,8 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <Phone size={18} className="text-red-primary flex-shrink-0 mt-1" />
-                <a href="tel:+1234567890" className="text-gray-light hover:text-red-primary transition-colors">
-                  +1 (234) 567-890
+                <a href="tel:+919773329211" className="text-gray-light hover:text-red-primary transition-colors">
+                  +91 9773329211
                 </a>
               </li>
               <li className="flex items-start gap-3">
@@ -68,8 +68,11 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-red-primary flex-shrink-0 mt-1" />
                 <span className="text-gray-light">
-                  123 Fitness Street<br />
-                  Gym District, City 12345
+                  Manorama Nagar Rd<br />
+                  Opposite State Bank of India<br />
+                  Dokali Pada, Dhokali<br />
+                  Thane West, Thane<br />
+                  Maharashtra 400607
                 </span>
               </li>
             </ul>

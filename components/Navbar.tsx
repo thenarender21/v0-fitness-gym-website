@@ -39,12 +39,12 @@ export default function Navbar() {
 
           {/* CTA Button */}
           <div className="hidden md:flex">
-            <a
-              href="#contact"
+            <Link
+              href="/join"
               className="px-6 py-2 bg-red-primary hover:bg-red-dark text-white font-semibold rounded-lg transition-all duration-300 transform hover:scale-105"
             >
               Join Now
-            </a>
+            </Link>
           </div>
 
           {/* Mobile Menu Button */}
@@ -70,13 +70,13 @@ export default function Navbar() {
                   {item.name}
                 </a>
               ))}
-              <a
-                href="#contact"
+              <Link
+                href="/join"
                 className="block w-full text-center px-4 py-2 bg-red-primary hover:bg-red-dark text-white font-semibold rounded-lg transition-all"
                 onClick={() => setIsOpen(false)}
               >
                 Join Now
-              </a>
+              </Link>
             </div>
           </div>
         )}
