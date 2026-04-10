@@ -101,7 +101,7 @@ export default function Testimonials() {
             <p className="text-gray-light">Average Rating</p>
           </div>
           <div className="p-8 bg-navy-900 rounded-xl border border-gold-primary/20">
-            <p className="text-5xl font-bold text-gold-primary mb-2">500+</p>
+            <p className="text-5xl font-bold text-gold-primary mb-2">414+</p>
             <p className="text-gray-light">Success Stories</p>
           </div>
           <div className="p-8 bg-navy-900 rounded-xl border border-gold-primary/20">

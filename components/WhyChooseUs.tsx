@@ -17,7 +17,7 @@ export default function WhyChooseUs() {
     {
       icon: TrendingUp,
       title: 'Proven Results',
-      description: 'Our members see measurable results within weeks. Join 500+ members who have transformed their bodies.',
+      description: 'Our members see measurable results within weeks. Join 414+ members who have transformed their bodies.',
     },
     {
       icon: Users,
